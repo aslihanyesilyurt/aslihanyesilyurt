@@ -5,10 +5,11 @@ I am a linguist and researcher at the intersection of LLMs, language, and multim
 
 I analyze speech patterns using NLP and LLMs to uncover linguistic markers of cognition, emotion, and mental health.
 
-🎓 M.A. in Linguistics: Language, Communication, and Cognition — University of Freiburg
+🎓 M.A. in Linguistics: Language, Communication, and Cognition, University of Freiburg
+
 🧠 Research areas: Large Language Models, genAI, affective computing, psycholinguistics, corpus linguistics
 
-- 🌱 Currently: Research Assistant at the English Department & Digital Humanities Lab (University of Freiburg)
+- 🌱 Current position: Research Assistant at the English Department & Digital Humanities Lab (University of Freiburg)
 - 🧪 Thesis: Leveraging Large Language Models to Identify Linguistic Markers of Anxiety
 - ✨ Interests: conversational AI, responsible AI, bias & fairness, anthropomorphism
 
