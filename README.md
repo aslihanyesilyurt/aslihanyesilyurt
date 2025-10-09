@@ -1,16 +1,15 @@
-## Hi there 👋
+# ✨ Caed'mil!
 
-<!--
-**aslihanyesilyurt/aslihanyesilyurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Aslıhan Yeşilyurt-Şengül.
+I am a linguist and researcher at the intersection of LLMs, language, and multimodal communication.
 
-Here are some ideas to get you started:
+I analyze speech patterns using NLP and LLMs to uncover linguistic markers of cognition, emotion, and mental health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 M.A. in Linguistics: Language, Communication, and Cognition — University of Freiburg
+🧠 Research areas: Large Language Models, genAI, affective computing, psycholinguistics, corpus linguistics
+
+- 🌱 Currently: Research Assistant at the English Department & Digital Humanities Lab (University of Freiburg)
+- 🧪 Thesis: Leveraging Large Language Models to Identify Linguistic Markers of Anxiety
+- ✨ Interests: conversational AI, responsible AI, bias & fairness, anthropomorphism
+
+📫 [LinkedIn](https://www.linkedin.com/in/aslihanyesilyurt/) • [University Profile](https://www.anglistik.uni-freiburg.de/sections/linguistics/lsmair?set_language=en)
