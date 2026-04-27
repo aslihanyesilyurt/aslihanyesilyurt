@@ -1,12 +1,18 @@
-# ✨ Caed'mil!
+## Hi, this is Aslıhan 👋
 
-This is Aslıhan Yeşilyurt-Şengül, M.A.
+Data Scientist and Localization Specialist based in Freiburg, Germany.
+I work at the intersection of language, data, and AI.
 
-I analyze speech patterns using NLP and LLMs to uncover linguistic markers of cognition, emotion, and mental health.
+**Recent position:** Research Assistant, University of Freiburg  
+(Digital Humanities Lab · English Linguistics)
 
-🧠 Research areas: LLMs, GenAI, affective computing, psycholinguistics, human-centered NLP
+**What I build**
+- MT evaluation pipelines and multilingual NLP systems
+- Localization quality analytics — turning LQA data into actionable insights
+- NLP models for affective computing and cognitive language patterns
 
-- Current position: Research Assistant at the English Department & Digital Humanities Lab (University of Freiburg)
-- Interests: conversational AI, responsible AI, bias & fairness, anthropomorphism, computational models of mental health
+**Interests:** neural machine translation, responsible AI, conversational AI, human-centered NLP
 
-📫 [LinkedIn](https://www.linkedin.com/in/aslihanyesilyurt/) • [University Profile](https://www.anglistik.uni-freiburg.de/sections/linguistics/lsmair?set_language=en)
+**Stack:** Python · R · Pandas · HuggingFace Transformers · Plotly · SQL · scikit-learn & more
+
+📫 [LinkedIn](https://www.linkedin.com/in/aslihanyesilyurt/)
